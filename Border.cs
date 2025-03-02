@@ -35,8 +35,5 @@ namespace Clock
                 Console.Write("║");
             }
         }
-        int borderX;
-        int borderY;
-
     }
 }
